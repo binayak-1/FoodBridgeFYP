@@ -12,7 +12,6 @@ import {
   ListItemText,
   Toolbar,
   Typography,
-  useTheme,
   Dialog,
   DialogTitle,
   DialogContent,
